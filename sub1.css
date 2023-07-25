@@ -368,7 +368,7 @@ text-align: center;
     font-size:12px;
   }
 }
-@media screen and (max-width: 900px) and (min-width: 600px) {
+/* @media screen and (max-width: 900px) and (min-width: 600px) {
 .first{
   font-size: 15px;
 
@@ -378,7 +378,7 @@ text-align: center;
   font-size: 15px;
 }
 
-}
+} */
 /* 
 @media screen and (max-width:778px) and (min-width: 500px) {
   .first{
@@ -415,32 +415,3 @@ text-align: center;
 
 
 
-
-@media only screen and (max-width: 600px) {
-
-.first {
-font-size: 15px;
-}
-
-}
-
-@media only screen and (max-width: 500px) {
-
-  .first {
-font-size: 10px;
-  }
-}
-@media only screen and (max-width: 300px) {
-
-  .first {
-font-size: 20px;
-  }
-#count{
-  font-size: 16px;
-}
-#main {
-  font-size:10px;
-  overflow:auto;
-}
-
-}
