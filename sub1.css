@@ -379,7 +379,7 @@ text-align: center;
 }
 
 }
-
+/* 
 @media screen and (max-width:778px) and (min-width: 500px) {
   .first{
     font-size: 15px;
@@ -389,8 +389,7 @@ text-align: center;
     overflow:auto;
     font-size: 15px;
   }
-  
-  }
+  } */
 
 
 
