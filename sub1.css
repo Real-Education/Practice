@@ -380,7 +380,12 @@ text-align: center;
 
 .footer{
   font-size: 8px;
-}}
+}
+#start {
+  font-size:15px;
+}
+
+}
 
 @media screen and (max-width:500px) and (min-width: 300px) {
   .first{
@@ -397,6 +402,9 @@ text-align: center;
   .ladder{
     font-size: 14px;
   }
+  #start {
+    font-size:16px;
+  }
 }
 @media screen and (max-width:600px) and (min-width: 500px) {
   .first{
@@ -407,6 +415,7 @@ text-align: center;
     overflow:auto;
    
   }
+
 
 }
 
