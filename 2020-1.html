@@ -1776,7 +1776,7 @@ let pre = div1.getElementsByTagName("pre")
 for(let i=0; i<=pre.length; i++){
 pre[i].setAttribute("id", `s${i}`);
 pre[i].firstElementChild.setAttribute("id", i);
-pre[i].firstElementChild.innerHTML  = "Answer:";
+
 pre[i].setAttribute("onclick", `myFunction${i}()`);
 pre[i].firstElementChild.style.cssText = "color:white; background-color: green; border: 1px solid green; border-radius:7px;display:none";
 
